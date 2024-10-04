@@ -20,7 +20,7 @@ use std::io::{self, Write};
 use std::path::PathBuf;
 use tempfile::TempDir;
 
-const BELLANDE_FS_BINARY: &str = "./bellandeos/file_system";
+const BELLANDE_FS_BINARY: &str = "../../bellandeos/file_system";
 
 struct TestContext {
     temp_dir: TempDir,
