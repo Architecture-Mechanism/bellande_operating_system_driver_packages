@@ -21,6 +21,22 @@
     - Tests filesystem persistence and recovery
 
 
+## Website Crates
+- https://crates.io/crates/bellandeos_file_system_test
+
+### Installation
+- `cargo add bellandeos_file_system_test`
+
+```
+Name: bellandeos_file_system_test
+Version: 0.0.1
+Summary: This test file includes several test functions that cover different aspects of the BellandeOS filesystem
+Home-page: github.com/Architecture-Mechanism/bellandeos_file_system_test
+Author: Ronaldson Bellande
+Author-email: ronaldsonbellande@gmail.com
+License: GNU General Public License v3.0
+```
+
 ## License
 
 BellandeOS File System is distributed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), see [LICENSE](https://github.com/Algorithm-Model-Research/bellande_operating_system_driver_packages/blob/main/LICENSE) and [NOTICE](https://github.com/Algorithm-Model-Research/bellande_operating_system_driver_packages/blob/main/LICENSE) for more information.
